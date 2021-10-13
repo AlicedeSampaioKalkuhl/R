@@ -1,0 +1,16 @@
+# R tidbits 
+
+These are just some random tidbits to remember later. 
+
+md.pattern() in mice for missing data pattern
+
+lm fits with(data,lm())
+or attach prior to lm
+
+
+# colouring
+piratepal from yarrr has a mylittle pony colour scheme
+perl earring from library (dutchmasters)
+
+testBF()
+gives a Bayesian factor anaylysis
